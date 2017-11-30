@@ -1,0 +1,37 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/bogdan/.emacs.d/" . "customizations/")
+ ("/home/bogdan/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/bogdan/.emacs.d/customizations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ui.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/bogdan/.emacs.d/customizations/" (23071 48800 260540 599000) "editing.el" "misc.el" "navigation.el" "setup-js.el" "ui.el" "./" "shell-integration.el" "elisp-editing.el" "setup-clojure.el" "../")
+
+ ("/home/bogdan/.emacs.d/" (23071 48806 724554 254000) "ido.last" "customizations/" "elpa/" ".gitignore" "./" "themes/" "README.md" "init.el" "backups/" "auto-save-list/" ".recentf" "../" ".smex-items")
+
+ ("/home/bogdan/" (23071 48862 572671 234000) ".m2/" ".bash_history" ".recently-used" ".PhpStorm2017.1/" "erlang-solutions_1.0_all.deb" ".dropbox/" "Music/" ".zshrc" ".dmrc" ".lightmod.core/" ".bash_logout" "Desktop/" ".python_history" ".xsel.log" ".exercism.json" ".putty/" ".thunderbird/" ".xsession-errors" "tasks" ".node_repl_history" ".zsh_history" ".dropbox-dist/" ".pm2/" "book1.zip" "Pictures/" "LightmodProjects/" "laravel/" "./" "music.play.bash" ".mplayer/" ".lein/" ".emacs.d/" ".sqlite_history" ".viminfo" ".vnc/" ".vscode/" "GNS3/" "Public/" ".mysql/" ".bash_message.py" ".mozilla/" ".mysql_history" ".mono/" ".ipython/" ".karbowanec/" "ponix.tar.bz2" ".xscreensaver" ".remmina/" ".profile" "test.pic.sh" ".Xauthority" "Templates/" "Telegram/" "Downloads/" "PhpstormProjects/" ".PhpStorm2017.2/" ".dbus/" ".zcompdump" ".rnd" ".gconf/" ".config/" ".lesshst" ".npm/" ".gnupg/" ".jrnl_config" ".local/" ".oracle_jre_usage/" ".pki/" ".thumbnails/" ".ViberPC/" ".cache/" "Dropbox/" ".vim/" ".xsession-errors.old" ".ICEauthority" "phpstorm/" ".Xdefaults" "Documents/" "erlang/" ".gimp-2.8/" ".vimrc" ".wget-hsts" ".ssh/" ".bashrc" "Projects/" ".java/" ".gitconfig" "speedtest-cli" "Videos/" ".php_history" "../" ".sudo_as_admin_successful")
+
+ ("/home/bogdan/Dropbox/" (23048 34458 819938 906000) "_soft/" "Andrew Mallett - CentOS System Administration Essentials - 2014.pdf" "ergoemacs-layout-us.png" "botButton.html" "2download/" "files_834036_hdtvrip.txt" ".dropbox" "Yii.lnk" "lar_blog.sql" "pics/" "gks.pkt" "вот эти правила открывают медку только то что нужн" "New Empty File.txt" "BitLocker Recovery Key 71FDF28D-872C-4A62-93FE-E6C8216AE1B2.TXT" "trex/" "cs50/" "work/" "Screenshot_2016-07-22-18-40-08.jpg" "Code/" "setting.php" "petya_mem.txt" "Приложения/" "ping.bat" "CV/" "blog.tar.bz2" "./" "20170406131033_settings.pref" "myDocs/" "LOGO.jpg" "clojureCourse/" "cyber-dojo.org_id.txt" "who.vnc/" "Facebook.php" "putty/" "Скриншоты/" "Books/" "www/" "Public/" "ТЗ-РНР.PDF" "Camera Uploads/" "IMG_20160617_094310.JPG" "капльный полив" "src4m/" "jamfm.m3u" "phpFunc.txt" "[root@webclusterI ~]# history" "gks.rdg" "55e69c05d4b7c.png" "playlist/" "Стажировка - Google Docs.pdf" "py/" "vader/" "pset3/" "file.json" "C4droid.ver.5.01.build.501.apk" "pset4/" "Photos/" "iskra.zip" "journal.txt" "workout/" "# my aliases" "test.txt" "2listen/" "isp/" "CA.rar" "ftp/" "spbk/" "ssh/" "NAS_ssh_back" "music/" "check.txt" "2do.txt" "wifi_vp/" "BotFabric/" "nagios_scripts/" "profithill.zip" "backup/" "exercism/" "IMG_20160617_094310 (1).JPG" "Link to apm_26/" "pset4.zip" "index.php" "koktut/" "phill/" "keepass/" "Projects/" "_etc/" ".dropbox.cache/" "gw-sert.zip" "rc.local.5.1" "php/" "dbver" "Screenshot_2016-10-20_22-42-22.png" "kasper_notify.sh" "../" "etc/" "kvitansia.xls")
+
+ ("/home/bogdan/Dropbox/Code/" (23070 39835 333751 578000) "python_kids/" "clojure/" "settings/" "./" "uias/" "pong v1.0.py~" "content/" "parser/" "план_роботи_на_2014.xls" "pong v1.0.py" "katas/" "recrut/" "get-pip.py" "vue.js.url" "mysite/" "vue_simple_crud.tar.bz2" "../")
+
+ ("/home/bogdan/Dropbox/Code/clojure/" (23071 43173 230422 789000) "./" "blog/" "clojure-1.8.0.jar" "forum/" "../")
+
+ ("/home/bogdan/Dropbox/Code/clojure/forum/" (23071 47859 730593 169000) "target/" ".gitignore" "./" "CHANGELOG.md" ".lein-repl-history" "src/" "LICENSE" "project.clj" "test/" "README.md" "doc/" "project.clj~" "resources/" ".hgignore" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
